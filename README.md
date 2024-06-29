@@ -9,6 +9,7 @@
 <h2> 🤳 Connect with me:</h2>
 - <b>Contact: </b>
   - [LinkedIn](https://www.linkedin.com/in/qingru-yang-b79a8329a/)
+  <h3>Telegram: @CarolineYQR</h3>
 
 
 
